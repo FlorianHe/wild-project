@@ -1,0 +1,13 @@
+.vitrine {
+    background-repeat: no-repeat;
+    width: 907px;
+    height: 600px;
+    text-align: center;
+    background-size: 100% 100%;
+}
+
+.vitrine div {
+    font-size: 72px;
+    color: #ce1658;
+    padding-top: 300px;
+}
